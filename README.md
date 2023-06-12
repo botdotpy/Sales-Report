@@ -1,7 +1,7 @@
 # Sales-Report
 Power BI sales report, with High-Level View, Store View and Top Sellers pages.
 
-# Screenhot
+# Screenshot
 ![Screenshot (131)](https://github.com/botdotpy/Sales-Report/assets/131703097/9732597f-4dbd-4662-985d-49550201aa47)
 
 
